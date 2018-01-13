@@ -1,0 +1,23 @@
+{
+  "name": "beefbot",
+  "version": "1.0.0",
+  "description": "Author: \tJonathan Shaub Created:\t1/13/18",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshaub/beefbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshaub/beefbot/issues"
+  },
+  "homepage": "https://github.com/jshaub/beefbot#readme",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
